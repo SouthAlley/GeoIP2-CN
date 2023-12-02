@@ -102,6 +102,14 @@
       }
     },
     {
+      "type": "clashRuleSet",
+      "action": "output",
+      "args": {
+        "wantedList": ["cn"],
+        "onlyIPType": "ipv4"
+      }
+    },
+    {
       "type": "surgeRuleSet",
       "action": "output",
       "args": {
