@@ -131,10 +131,6 @@
       "args": {
         "outputName": "Private-GeoIP.mmdb"
       }
-    },
-    {
-      "type": "text",
-      "action": "output"
     }
   ]
 }
