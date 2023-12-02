@@ -113,6 +113,7 @@
       "type": "clashRuleSet",
       "action": "output",
       "args": {
+        "outputDir": "./publish",
         "wantedList": ["cn"],
         "onlyIPType": "ipv4"
       }
