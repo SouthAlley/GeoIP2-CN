@@ -113,7 +113,6 @@
       "type": "clashRuleSet",
       "action": "output",
       "args": {
-        "outputDir": "./publish",
         "wantedList": ["cn"],
         "onlyIPType": "ipv4"
       }
@@ -122,8 +121,10 @@
       "type": "surgeRuleSet",
       "action": "output",
       "args": {
+        "outputName": "ty.txt",
         "wantedList": ["cn"],
-        "onlyIPType": "ipv4"
+        "onlyIPType": "ipv4",
+        "outputDir": "./publish"
       }
     },
     {
